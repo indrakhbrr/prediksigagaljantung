@@ -1,0 +1,3 @@
+- Buka file prediksigagaljantung.py
+- ketikkan di terminal pip install -r requirements.txt
+- untuk running apk ketikkan di terminal streamlit run prediksigagaljantung.py
